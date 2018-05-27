@@ -1,0 +1,18 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# virtual machine crash logs
+/hs_err_pid*
+
+/target/*
+/logs/*
+/lib/*
+
+/collections.iml
+
